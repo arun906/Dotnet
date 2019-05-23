@@ -1,0 +1,23 @@
+integrated security=true;initial catalog=sqlpractice; data source = DESKTOP-RCR6A6R
+
+
+  <connectionStrings>
+    <add name="sqlpracticeconn" connectionString="user id=sa;password=P@ssw0rd; data source=DESKTOP-RCR6A6R;initial catalog=sqlpractice;" providerName="System.Data.SqlClient"/>
+  </connectionStrings>
+
+
+
+   Connection-specific DNS Suffix  . : routerda541c.com
+   Link-local IPv6 Address . . . . . : fe80::3dd2:adbb:63f:9d2e%6
+   IPv4 Address. . . . . . . . . . . : 172.19.8.49
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 172.19.8.1
+
+SQLEXPRESS
+P@ssw0rd
+
+
+GIT
+___
+
+https://github.com/arun906/Dotnet.git
